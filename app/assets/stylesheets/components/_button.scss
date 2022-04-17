@@ -1,0 +1,20 @@
+.btn-flat {
+  color: black;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background: $green;
+  transition: background 0.3s ease;
+}
+
+.btn-flat:hover {
+  background: $black;
+  color: white;
+}
+
+.btn-delete {
+  color: black;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background: $orange;
+  transition: background 0.3s ease;
+}
